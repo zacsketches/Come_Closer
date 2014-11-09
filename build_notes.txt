@@ -1,0 +1,2 @@
+1. See this site description of sleep modes
+  http://www.engblaze.com/hush-little-microprocessor-avr-and-arduino-sleep-mode-basics/
